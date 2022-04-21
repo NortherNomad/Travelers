@@ -1,0 +1,4 @@
+#340506 - logo text
+#e8e0cb - bg color
+#54362a - photo colored logo
+#d6c69c - new bg
